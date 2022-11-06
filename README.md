@@ -1,8 +1,10 @@
 # Homo Sapiens Athée - Comment devenir vraiment athée
 
+[<img src="https://github.com/AldridWhite/HomoSapiensAthee/blob/main/assets/v0.0.1-fr/426x240/video-0.0.1fr-speedup-0dot03-426x240.gif?raw=true">](https://www.youtube.com/watch?v=JxoGUM49U2U)
+
 ## Liens
 
-    Youtube: https://www.youtube.com/channel/UCE4r44T1vi6l3J4Dg0MyHAA
+    Youtube: https://www.youtube.com/@aldridwhite
     Github: https://github.com/AldridWhite/HomoSapiensAthee
     Twitter: https://twitter.com/AldridWhite
 
